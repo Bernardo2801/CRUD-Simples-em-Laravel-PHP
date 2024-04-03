@@ -1,6 +1,6 @@
 # Meu Projeto
 
-Este é um projeto de prática para exercitar minhas habilidades em Laravel e PHP. Contém um CRUD simples para familiarização com o framework.
+Este repositório foi criado como parte do meu processo de aprendizado em Laravel e PHP. Aqui você encontrará um CRUD simples para exercitar conceitos básicos e aprimorar minhas habilidades de desenvolvimento web. Este não é um projeto completo ou para uso em produção, apenas uma prática pessoal. Sinta-se à vontade para explorar e contribuir com sugestões de melhorias!
 
 ## Instalação
 
