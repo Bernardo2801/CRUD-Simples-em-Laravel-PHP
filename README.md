@@ -4,7 +4,7 @@ Este repositório foi criado como parte do meu processo de aprendizado em Larave
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
+1. Clone o repositório: `https://github.com/Bernardo2801/CRUD-Simples-em-Laravel-PHP.git`
 2. Instale as dependências: `composer install`
 3. Configure o arquivo `.env` com suas configurações de banco de dados
 4. Execute as migrações: `php artisan migrate`
@@ -14,10 +14,6 @@ Este repositório foi criado como parte do meu processo de aprendizado em Larave
 - Adicione novos registros
 - Edite informações existentes
 - Exclua registros
-
-## Contribuição
-
-Sinta-se à vontade para enviar sugestões ou melhorias via Pull Request!
 
 ## Licença
 
